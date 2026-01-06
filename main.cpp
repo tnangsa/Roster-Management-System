@@ -23,7 +23,7 @@ int main() {
         "A3,Jack,Napoli,The lawyer99yahoo.com,19,20,40,33,SOFTWARE",
         "A4,Erin,Black,Erin.black@comcast.net,22,50,58,40,SECURITY",
 
-        "A5,Tenzin,Nangsa,tnangsa@wgu.edu,26,7,20,24,SOFTWARE" };
+        "A5,Tenzin,Nangsa,tenzin@wgu.edu,26,7,20,24,SOFTWARE" };
 
     //calculate number of students
     int numStudents = sizeof(studentData) / sizeof(studentData[0]);
@@ -96,3 +96,4 @@ int main() {
 
     return 0;
 }
+
